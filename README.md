@@ -35,4 +35,4 @@ Still learning. Still breaking things. Still shipping.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParasChavan02&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paras2&show_icons=true&theme=dark)
