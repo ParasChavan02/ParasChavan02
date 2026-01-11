@@ -49,12 +49,7 @@ I use AI as a **productivity tool, not a crutch** — designing systems myself a
 
 ---
 
-## 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats-r39l-git-master-paras-chavans-projects.vercel.app/api?username=ParasChavan02&show_icons=true&theme=github_dark&cache_seconds=1800&v=2"
-  alt="Paras's GitHub Stats"
-/>
 
 
 
