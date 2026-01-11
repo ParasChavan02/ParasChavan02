@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**ParasChavan02/ParasChavan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there!
 
-Here are some ideas to get you started:
+I’m **Paras Chavan**, a B.Tech student and aspiring software developer.
+I enjoy building things that actually work — sometimes for fun, sometimes because deadlines exist 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+- Web development
+- Backend systems
+- UI that doesn’t hurt the eyes
+
+Still learning. Still breaking things. Still shipping.
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/paras-chavan-563aa728b?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:paraschavan0201@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParasChavan02&show_icons=true&theme=dark)
