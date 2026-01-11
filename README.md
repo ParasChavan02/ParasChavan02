@@ -51,6 +51,7 @@ I use AI as a **productivity tool, not a crutch** — designing systems myself a
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ParasChavan02)
+![Paras's GitHub Stats](https://github-readme-stats-b888zbyh1-paras-chavans-projects.vercel.app/api?username=ParasChavan02&show_icons=true&theme=github_dark)
+
 
 
