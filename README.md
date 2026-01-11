@@ -1,38 +1,54 @@
 # 👋 About Me
 
-Hey there!
+I’m **Paras Chavan**, a backend-first software engineer focused on building **reliable, production-ready web systems** — not just demos that work on localhost.
 
-I’m **Paras Chavan**, a B.Tech student and aspiring software developer.
-I enjoy building things that actually work — sometimes for fun, sometimes because deadlines exist 😄
+My core strength is designing and implementing **clean backend architectures**:
+- Authentication & authorization (RBAC)
+- API design and data modeling
+- Caching, rate limiting, and failure handling
+- Writing code that stays maintainable after the first release
 
-Currently exploring:
-- Web development
-- Backend systems
-- UI that doesn’t hurt the eyes
+I strongly prefer **boring, proven solutions** over flashy but fragile ones, and I care about correctness, structure, and long-term reliability.
 
-Still learning. Still breaking things. Still shipping.
+On the frontend, I work comfortably with **React** to build clear, functional interfaces — but my primary focus remains the backend, where system design decisions actually matter.
 
 ---
 
-## 🌐 Socials
+## 🛠 What I’ve Been Building Recently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/paras-chavan-563aa728b?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- Multi-tenant backends with teams and role-based access control  
+- High-volume API ingestion systems with caching and rate limiting  
+- AI-assisted backend features (RAG-based services) using Python & FastAPI  
+
+I use AI as a **productivity tool, not a crutch** — designing systems myself and leveraging AI to accelerate implementation, testing, and review.
+
+---
+
+## 🎯 Current Focus
+
+- Backend engineering with **Node.js & TypeScript**
+- **MongoDB** data modeling and query optimization
+- **Redis** for caching and rate limiting
+- Dockerized development and cloud-ready deployments
+- Applying AI responsibly in real production systems
+
+---
+
+## 🤝 Looking For
+
+- Engineering-driven collaborations
+- Open-source backend projects
+- Paid **internship / junior backend roles** where I can ship real features, learn from strong engineers, and contribute value from day one
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/paras-chavan-563aa728b)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:paraschavan0201@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paras2&show_icons=true&theme=dark)
+![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParasChavan02&show_icons=true&theme=dark)
