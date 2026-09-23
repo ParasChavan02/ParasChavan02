@@ -6,6 +6,17 @@ Computer Science undergraduate focused on building reliable, scalable web applic
 
 I work across **Node.js, Python, FastAPI, TypeScript, PostgreSQL, MongoDB, Redis, and AWS**, with a strong focus on API design, authentication, RBAC, asynchronous processing, and maintainable system architecture.
 
+## 🌐 Connect With Me
+
+<p align="center">
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/paras-chavan-563aa728b">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:paraschavan0201@gmail.com">Email</a>
+</p>
+
+
+
 ## 🚀 What I'm Building
 
 - 🔧 **Full-stack applications** with Next.js, React, TypeScript, and Node.js
@@ -61,8 +72,4 @@ Currently building toward **AI-assisted code review workflows**.
 - AI-powered Applications
 - Cloud-native Development
 
-## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-chavan-563aa728b)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavanparas0201@gmail.com)
