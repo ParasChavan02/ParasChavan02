@@ -15,4 +15,4 @@ I enjoy turning complex problems into clean, maintainable software — from back
 
 ### 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/paras-chavan-563aa728b) · [Portfolio](https://portfolio-hi8g.onrender.com) · [Email](mailto:chavanparas0201@gmail.com) · 
+[LinkedIn](https://www.linkedin.com/in/paras-chavan-563aa728b) · [Portfolio](https://portfolio-hi8g.onrender.com) · [Email](mailto:chavanparas0201@gmail.com) 
