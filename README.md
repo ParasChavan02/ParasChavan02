@@ -13,6 +13,18 @@ I enjoy turning complex problems into clean, maintainable software — from back
 
 `TypeScript` `JavaScript` `Python` `Node.js` `FastAPI` `React` `PostgreSQL` `MongoDB` `Redis` `Docker` `AWS`
 
-### 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
-[LinkedIn](https://www.linkedin.com/in/paras-chavan-563aa728b) · [Portfolio](https://portfolio-hi8g.onrender.com) · [Email](mailto:chavanparas0201@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/paras-chavan-563aa728b">
+    <strong>LinkedIn</strong>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="mailto:chavanparas0201@gmail.com">
+    <strong>Email</strong>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://portfolio-hi8g.onrender.com/">
+    <strong>Portfolio</strong>
+  </a>
+</p>
