@@ -1,81 +1,18 @@
-# 👋 Hi, I'm Paras Chavan
+# 👋 Hey, I'm Paras Chavan
 
-**Software Engineer | Backend & Full-Stack Development | Applied AI**
+**Software Engineer building reliable backends and AI-powered applications.**
 
-Computer Science undergraduate focused on building reliable, scalable web applications and backend systems.
+I enjoy turning complex problems into clean, maintainable software — from backend APIs and authentication to cloud infrastructure and AI integrations.
 
-I work across **Node.js, Python, FastAPI, TypeScript, PostgreSQL, MongoDB, Redis, and AWS**, with a strong focus on API design, authentication, RBAC, asynchronous processing, and maintainable system architecture.
+- 🔭 Building **[MergePilot AI](https://github.com/ParasChavan02/MergePilot-AI)** — GitHub developer intelligence and AI-assisted code review.
+- ⚙️ Working with **Node.js, TypeScript, Python, and FastAPI**.
+- 🌱 Exploring **distributed systems, system design, and applied AI**.
+- 📄 Co-authored research on **UrbanCool**, published on IEEE Xplore.
 
-<h2>🌐 Connect With Me</h2>
+### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/paras-chavan-563aa728b">
-    <strong>LinkedIn</strong>
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:chavanparas0201@gmail.com">
-    <strong>Email</strong>
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://portfolio-hi8g.onrender.com">
-    <strong>Portfolio</strong>
-  </a>
-</p>
+`TypeScript` `JavaScript` `Python` `Node.js` `FastAPI` `React` `PostgreSQL` `MongoDB` `Redis` `Docker` `AWS`
 
+### 🌐 Connect With Me
 
-## 🚀 What I'm Building
-
-- 🔧 **Full-stack applications** with Next.js, React, TypeScript, and Node.js
-- ⚙️ **Backend systems** with FastAPI, REST APIs, PostgreSQL, MongoDB, and Redis
-- 🔐 **Secure workflows** using authentication, authorization, and RBAC
-- 🤖 **AI-powered applications** and developer intelligence tools
-- ☁️ **Cloud-native applications** with Docker, AWS, and CI/CD
-
-## 💼 Experience
-
-**Full Stack Developer Intern — The Double**
-
-Building a scoped Knowledge Base system with Next.js, TypeScript, REST APIs, Redux Toolkit, and Redux-Saga, including multi-source ingestion, resource management, knowledge assignment, and workflow controls.
-
-**Web-App Development Intern — E-YUVA Centre**
-
-Developed role-based ERP finance workflows covering transactions, reconciliation, approvals, document management, dashboards, and financial reporting.
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python, SQL
-
-**Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit, Redux-Saga
-
-**Backend:** Node.js, Express.js, FastAPI, REST APIs
-
-**Databases:** MongoDB, PostgreSQL, MySQL, SQLite, Redis
-
-**Cloud & DevOps:** AWS, Docker, CI/CD, Git, GitHub
-
-**Engineering:** Authentication, Authorization, RBAC, Microservices, API Validation, Async Processing, Database Design, System Design
-
-## 📌 Featured Project
-
-### MergePilot AI
-
-GitHub developer intelligence platform built with **Next.js and TypeScript**, integrating GitHub OAuth, repository and pull request analysis, PostgreSQL, Drizzle ORM, and Gemini API.
-
-Currently building toward **AI-assisted code review workflows**.
-
-## 🏆 Achievements
-
-- Published research paper on **UrbanCool** in **IEEE Xplore** and presented at IEEE I3CTCON 2026
-- Completed **AWS Academy Cloud Architecting** and **Cloud Foundations**
-- Selected for **E-YUVA Centre Internship** through competitive selection
-- Completed **Samsung Innovation Campus Coding & Programming Program**
-
-## 🎯 Currently Exploring
-
-- Backend Architecture
-- Distributed Systems
-- System Design
-- AI-powered Applications
-- Cloud-native Development
-
-
+[LinkedIn](https://www.linkedin.com/in/paras-chavan-563aa728b) · [Portfolio](https://portfolio-hi8g.onrender.com) · [Email](mailto:chavanparas0201@gmail.com) · [GitHub](https://github.com/ParasChavan02)
