@@ -8,7 +8,7 @@ I enjoy turning complex problems into clean, maintainable software — from back
 - ⚙️ Working with **Node.js, TypeScript, Python, and FastAPI**.
 - 🌱 Exploring **distributed systems, system design, and applied AI**.
 - 📄 Co-authored research on **UrbanCool**, published on IEEE Xplore.
-- © 2026 Paras Chavan, Atharv Patil Patki, Vaibhav Patil, and Gayatri Kadam. All rights reserved. UrbanCool — AI for Environmental Management: AI-Driven Responsive Cooling System. Registered with the Copyright Office, Government of India (Certificate No. LD-20260196617).
+-  © Copyright registered with the Government of India for **UrbanCool — AI-Driven Responsive Cooling System** (Certificate No. LD-20260196617).
 
 ### 🛠️ Tech Stack
 
