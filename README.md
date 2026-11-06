@@ -16,7 +16,7 @@ I enjoy turning complex problems into clean, maintainable software — from back
 
 <h2>🌐 Connect With Me</h2>
 
-<p align="center">
+
   <a href="https://www.linkedin.com/in/paras-chavan-563aa728b">
     <strong>LinkedIn</strong>
   </a>
@@ -28,4 +28,7 @@ I enjoy turning complex problems into clean, maintainable software — from back
   <a href="https://portfolio-hi8g.onrender.com/">
     <strong>Portfolio</strong>
   </a>
-</p>
+  &nbsp; • &nbsp;
+  <a href="https://thedouble.ai/paras02">
+    <strong>Digital Twin</strong>
+  </a>
