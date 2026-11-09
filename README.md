@@ -30,5 +30,5 @@ I enjoy turning complex problems into clean, maintainable software — from back
   </a>
   &nbsp; • &nbsp;
   <a href="https://thedouble.ai/paras02">
-    <strong>Digital Twin</strong>
+    <strong>Double</strong>
   </a>
